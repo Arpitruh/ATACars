@@ -1,2 +1,3 @@
-# ATACars
-Proejct- A car rental rental website
+# ATA Cars
+
+A car rental website project.
